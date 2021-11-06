@@ -185,6 +185,59 @@
 - [Spring WebSocket 구현-1](https://unluckyjung.github.io/spring/2021/08/19/Spring-Websocket-Implement-1/#)
 - [Spring + Junit5에서, 의존성 주입을 @AutoWired로 받아야 하는 이유](https://unluckyjung.github.io/testcode/2021/08/21/Junit5-Need-AutowiredAnnotation/)
 
+
+---
+<br>
+
+## 💚  **Level 4: 팀 프로젝트 유지 보수 및 웹 백엔드에 깊이를 더하는 단계**
+
+### **기간**
+
+- `2021.08.14 – 2021.10.31`
+
+### **학습 목표**
+
+- 웹 서버를 직접 구현해 HTTP를 이해하고, 서블릿 컨테이너의 동작 원리를 이해한다.
+- JDBC 라이브러리, MVC, DI 프레임워크 구현을 통해 Spring 프레임워크의 동작 원리를 이해한다.
+- SQL 튜닝을 통해, 쿼리를 개선해본다.
+- 레거시 프로젝트를 리팩토링하는 경험을 한다.
+- 대용량 서비스를 위한 시스템 아키텍처 설계, 데이터 처리 경험을 한다.
+
+### **진행 미션**
+
+|Mission |Repository |Pull Request | Reviewer |
+|:------:|:---------:|:-----------:|:-----------:|
+|HTTP 서버 구현하기 |[jwp-dashboard-http/step1](https://github.com/unluckyjung/jwp-dashboard-http/tree/step1) |[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/32) |[파피](https://github.com/TaewanKimmmm)  |
+| |[jwp-dashboard-http/step2-3](https://github.com/unluckyjung/jwp-dashboard-http/tree/step2-3) |[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/104) |  |
+|MVC 구현하기 |[jwp-dashboard-mvc/step1](https://github.com/unluckyjung/jwp-dashboard-mvc/tree/step1) |[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/32) |[인비](https://github.com/taehee-kim-dev)  |
+| |[jwp-dashboard-mvc/step2-3](https://github.com/unluckyjung/jwp-dashboard-mvc/tree/step2%2C3) | [Pull Request](hhttps://github.com/woowacourse/jwp-dashboard-mvc/pull/97) |   |
+|JDBC 라이브러리 구현하기 |[jwp-dashboard-jdbc/step1-2](https://github.com/unluckyjung/jwp-dashboard-jdbc/tree/step1) |[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/33) |[피케이](https://github.com/pkeugine)  | |
+|조회 성능 개선하기 |[sql-tunning](https://github.com/unluckyjung/sql-tuning/tree/step1) |[Pull Request](https://github.com/woowacourse/sql-tuning/pull/48) |[바다](https://github.com/xrabcde)  | | 
+|레거시 코드 리팩터링 |[jwp-refactoring/step1](https://github.com/unluckyjung/jwp-refactoring/tree/step1) |[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/156) |[로키](https://github.com/Rok93)  | | 
+
+
+
+### **개인 블로그 포스팅**
+
+- [(Java) Enum 캐싱](https://unluckyjung.github.io/java/2021/09/26/Enum-Caching/#)
+- [Reverse Proxy를 거치기전의 IP를 WAS에서 알아내기](https://unluckyjung.github.io/infra/2021/10/03/Find-EndPointIp/#)
+- [Ubuntu 18.04 NFS 설치 및 구축, 삭제](https://unluckyjung.github.io/infra/2021/10/27/NFS/#)
+- [Mysql Like 동작 방식](https://unluckyjung.github.io/db/2021/11/02/MYSQL-Like/#)
+
+
+---
+
+<br>
+
+## [미션 회고 및 복습 스터디](https://unleashed-perigee-4ed.notion.site/ba3fd72e9ef540b3ab3fcc6eba360a05)
+
+### **학습 목표**
+- 무작정 새로운것을 배우는것보다는, 잊지 않는것이 중요함을 자각한다.
+- 단순히 학습에서 멈추는것이 아닌 복습을 통해, 장기 기억으로 만든다.
+- 학습한것을 1분내에 남에게 설명할 수 있을정도로, 핵심 내용을 명확하게 정리하고 말하는 연습을 한다.
+
+
+
 ---
 
  <br>
@@ -230,5 +283,6 @@
 |기록 |🖋 우아한테크코스 한 달 생활기  |[woowa-writing-3](https://github.com/unluckyjung/woowa-writing-3/blob/unluckyjung/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4%20%ED%95%9C%EB%8B%AC%20%EC%83%9D%ED%99%9C%EA%B8%B0.md)  |[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/30) |[포비](https://github.com/pobiconan)|
 |성장 |🖋 우테코에서 찾은 나만의 효과적인 공부법  |[woowa-writing-3](https://github.com/unluckyjung/woowa-writing-3/blob/unluckyjung/%EC%9A%B0%ED%85%8C%EC%BD%94%EC%97%90%EC%84%9C%20%EC%B0%BE%EC%9D%80%20%EB%82%98%EB%A7%8C%EC%9D%98%20%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8%20%EA%B3%B5%EB%B6%80%EB%B2%95.md)  |[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/95) |[씨유](https://github.com/woowahanCU) |
 |회고 |🖋 팀 프로젝트가 나에게 남긴 것  |[woowa-writing-3](https://github.com/unluckyjung/woowa-writing-3/blob/step3/%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%80%20%EB%82%98%EC%97%90%EA%B2%8C%20%EB%82%A8%EA%B8%B4%20%EA%B2%83.md)  |[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/170) |[포코](https://github.com/devJang) |
+|회고 |🖋 내가 꿈꾸는 프로그래머로서의 삶  |[woowa-writing-4](https://github.com/unluckyjung/woowa-writing-3/blob/step4/%EB%82%B4%EA%B0%80%20%EA%BF%88%EA%BE%B8%EB%8A%94%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A1%9C%EC%84%9C%EC%9D%98%20%EC%82%B6.md)  |[Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/271) |[준](https://github.com/wmakerjun) |
 
 ---
