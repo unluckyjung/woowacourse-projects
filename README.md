@@ -209,7 +209,7 @@
 |:------:|:---------:|:-----------:|:-----------:|
 |HTTP 서버 구현하기 |[jwp-dashboard-http/step1](https://github.com/unluckyjung/jwp-dashboard-http/tree/step1) |[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/32) |[파피](https://github.com/TaewanKimmmm)  |
 | |[jwp-dashboard-http/step2-3](https://github.com/unluckyjung/jwp-dashboard-http/tree/step2-3) |[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/104) |  |
-|MVC 구현하기 |[jwp-dashboard-mvc/step1](https://github.com/unluckyjung/jwp-dashboard-mvc/tree/step1) |[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/32) |[인비](https://github.com/taehee-kim-dev)  |
+|MVC 구현하기 |[jwp-dashboard-mvc/step1](https://github.com/unluckyjung/jwp-dashboard-mvc/tree/step1) |[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/42) |[인비](https://github.com/taehee-kim-dev)  |
 | |[jwp-dashboard-mvc/step2-3](https://github.com/unluckyjung/jwp-dashboard-mvc/tree/step2%2C3) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/97) |   |
 |JDBC 라이브러리 구현하기 |[jwp-dashboard-jdbc/step1-2](https://github.com/unluckyjung/jwp-dashboard-jdbc/tree/step1) |[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/33) |[피케이](https://github.com/pkeugine)  | |
 |조회 성능 개선하기 |[sql-tunning](https://github.com/unluckyjung/sql-tuning/tree/step1) |[Pull Request](https://github.com/woowacourse/sql-tuning/pull/48) |[바다](https://github.com/xrabcde)  | | 
