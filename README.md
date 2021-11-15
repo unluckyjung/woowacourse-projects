@@ -260,7 +260,7 @@
 
 - 우아한 테크코스에서, 교육을 위한 교보재 및 미션 제작에 관련된 근로를 수행
 - [프론트엔드 파트 미션을 위한 교보재용 api 서버 제작](https://github.com/woowacourse/shopping-cart-api)
-- [프리코스 채점 자동화를 위한, 유틸 라이브러리 제작 (임시 저장소 / 레포지토리 이전 예정)](https://github.com/Joyykim/wooteco-utils)
+- [프리코스 채점 자동화를 위한, 유틸 라이브러리 제작](https://github.com/woowacourse-projects/mission-utils)
 - 4기 지원자들을 위한 미션 기획, 제작업무 수행
 
 
